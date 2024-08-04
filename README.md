@@ -2,6 +2,8 @@
 
 **PromptFusion** is an innovative platform for sharing and discovering AI-generated prompts, designed to inspire creativity and collaboration. Built with modern web technologies, it offers a sleek user experience with features that foster community interaction and ease of use.
 
+![image](https://github.com/user-attachments/assets/2faf0e1e-d551-4376-9f47-55b92f0112d7)
+
 ## Tech Stack
 
 - **Next.js**: A React framework for building server-side rendered applications.
